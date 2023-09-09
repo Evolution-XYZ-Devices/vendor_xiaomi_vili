@@ -819,7 +819,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vili/proprietary/vendor/lib64/camera/com.qti.eeprom.vili_sunny_s5k5e9yx04_p24c64f_macro_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.eeprom.vili_sunny_s5k5e9yx04_p24c64f_macro_eeprom.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/camera/com.qti.eeprom.vili_sunny_s5khm2_gt24p128e_wide_eeprom.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.eeprom.vili_sunny_s5khm2_gt24p128e_wide_eeprom.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/camera/com.qti.sensor.vili_ofilm_ov16a1q_front.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.vili_ofilm_ov16a1q_front.so \
-    vendor/xiaomi/vili/proprietary/vendor/lib64/camera/com.qti.sensor.vili_sunny_imx355_ultra.so:$(TARGET_COPY_OUT_VENDOR)/lib64/com.qti.sensor.vili_sunny_imx355_ultra.so \
+    vendor/xiaomi/vili/proprietary/vendor/lib64/camera/com.qti.sensor.vili_sunny_imx355_ultra.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.vili_sunny_imx355_ultra.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/camera/com.qti.sensor.vili_sunny_s5k5e9yx04_macro.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.vili_sunny_s5k5e9yx04_macro.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/camera/com.qti.sensor.vili_sunny_s5khm2_wide.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensor.vili_sunny_s5khm2_wide.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/camera/com.qti.sensormodule.vili_ofilm_ov16a1q_front.bin:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/com.qti.sensormodule.vili_ofilm_ov16a1q_front.bin \
