@@ -908,6 +908,7 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/vili/proprietary/vendor/lib64/camera/plugins/com.qcom.plugin.gpu.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/plugins/com.qcom.plugin.gpu.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/camera/plugins/com.qcom.plugin.offlinepostproc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/plugins/com.qcom.plugin.offlinepostproc.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/camera/plugins/com.xiaomi.plugin.anchor.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/plugins/com.xiaomi.plugin.anchor.so \
+    vendor/xiaomi/vili/proprietary/vendor/lib64/camera/plugins/com.xiaomi.plugin.arcsoftsll.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/plugins/com.xiaomi.plugin.arcsoftsll.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/camera/plugins/com.xiaomi.plugin.bodyslim.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/plugins/com.xiaomi.plugin.bodyslim.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/camera/plugins/com.xiaomi.plugin.capbokeh.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/plugins/com.xiaomi.plugin.capbokeh.so \
     vendor/xiaomi/vili/proprietary/vendor/lib64/camera/plugins/com.xiaomi.plugin.cupraw.so:$(TARGET_COPY_OUT_VENDOR)/lib64/camera/plugins/com.xiaomi.plugin.cupraw.so \
